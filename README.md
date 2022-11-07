@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Kai-ssu
 - 👀 I’m interested in Astronomical Programming and Space Science Technology
 - 🌱 I’m currently studying BS Astronomy Major in Space Science Technology
-- 📫 How to reach me: kyeslaurel@rtu.edu.ph
+- 📫 How to reach me: kyelaurel@gmail.com
