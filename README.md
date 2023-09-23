@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Kai-ssu
 - 👀 I’m interested in Astronomy and Space Science Technology
-- 🌱 I’m currently studying BS Astronomy Major in Space Science Technology
-- 📫 How to reach me: kyelaurel@gmail.com
+- 📫 Astronomer
+- 🌱 I’m currently studying Data Science
+- 📧 How to reach me: kyelaurel@gmail.com
