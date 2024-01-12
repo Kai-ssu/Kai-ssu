@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Kai-ssu
 - 👀 I’m interested in Astronomy, Data Science
 - 📫 Astronomer
-- 🌱 
 - 📧 How to reach me: kyelaurel@gmail.com
